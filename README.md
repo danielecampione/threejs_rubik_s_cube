@@ -1,14 +1,14 @@
 # 3D Rubik's Cube
 
-This is a web-based 3D simulation of a Rubik's Cube created using `three.js`.
+This is a Web-based 3D simulation of a Rubik's Cube created using `three.js`.
 
 ## Software Requirements
 
-- A modern web browser with WebGL support (e.g., Google Chrome, Mozilla Firefox, Safari, Microsoft Edge).
+- A modern Web browser with WebGL support (e.g., Google Chrome, Mozilla Firefox, Safari, Microsoft Edge).
 
 ## How to Use
 
-1.  Open the `index.html` file in your web browser.
+1.  Open the `index.html` file in your Web browser.
 2.  **Rotate the view**: Click and drag the mouse to rotate the entire cube.
 3.  **Rotate faces**: Use the on-screen buttons to rotate the different faces of the cube.
 4.  **Scramble**: Click the "Scramble" button to randomly shuffle the cube.
@@ -18,15 +18,15 @@ This is a web-based 3D simulation of a Rubik's Cube created using `three.js`.
 
 # Cubo di Rubik 3D
 
-Questa è una simulazione 3D di un Cubo di Rubik basata sul web e creata con `three.js`.
+Questa è una simulazione 3D di un Cubo di Rubik basata sul Web e creata con `three.js`.
 
 ## Requisiti Software
 
-- Un browser web moderno con supporto WebGL (ad es. Google Chrome, Mozilla Firefox, Safari, Microsoft Edge).
+- Un browser Web moderno con supporto WebGL (ad es. Google Chrome, Mozilla Firefox, Safari, Microsoft Edge).
 
 ## Come si Usa
 
-1.  Apri il file `index.html` nel tuo browser web.
+1.  Apri il file `index.html` nel tuo browser Web.
 2.  **Ruota la visuale**: Clicca e trascina il mouse per ruotare l'intero cubo.
 3.  **Ruota le facce**: Usa i pulsanti sullo schermo per ruotare le diverse facce del cubo.
 4.  **Mescola**: Clicca il pulsante "Scramble" per mescolare casualmente il cubo.
