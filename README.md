@@ -6,6 +6,9 @@ This is a Web-based 3D simulation of a Rubik's Cube created using `three.js`.
 
 - A modern Web browser with WebGL support (e.g., Google Chrome, Mozilla Firefox, Safari, Microsoft Edge).
 
+## 📸 Screenshot  
+![Png](https://i.ibb.co/8np6Ygn1/Immagine-2025-09-05-233800.png)
+
 ## How to Use
 
 1.  Open the `index.html` file in your Web browser.
@@ -24,6 +27,9 @@ Questa è una simulazione 3D di un Cubo di Rubik basata sul Web e creata con `th
 
 - Un browser Web moderno con supporto WebGL (ad es. Google Chrome, Mozilla Firefox, Safari, Microsoft Edge).
 
+## 📸 Schermata catturata  
+![Png](https://i.ibb.co/8np6Ygn1/Immagine-2025-09-05-233800.png)
+
 ## Come si Usa
 
 1.  Apri il file `index.html` nel tuo browser Web.
@@ -41,6 +47,10 @@ Questa è una simulazione 3D di un Cubo di Rubik basata sul Web e creata con `th
 ## 软件要求
 
 - 支持 WebGL 的现代网页浏览器（例如，谷歌浏览器、火狐浏览器、Safari、微软 Edge）。
+
+## 屏幕截图
+
+![Png](https://i.ibb.co/8np6Ygn1/Immagine-2025-09-05-233800.png)
 
 ## 如何使用
 
