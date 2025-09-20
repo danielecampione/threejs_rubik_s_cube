@@ -1,4 +1,4 @@
-# 3D Rubik's Cube
+# three.js 3D Rubik's Cube
 
 This is a Web-based 3D simulation of a Rubik's Cube created using `three.js`.
 
